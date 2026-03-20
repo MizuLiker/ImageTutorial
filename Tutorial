@@ -3,7 +3,7 @@
 hello! I suppose u came here for the tutorial, or because u wanted to.
 these are the steps for putting an image into ur GitHub repository:
 ● create a repository that has ur name as the title (example: if ur name is toast u write toast as the title)
-● copy in the README. FILE this text : 
+● copy and paste in the README. FILE this text : 
 ![Alt text](insert URL image link here)
 ● replace the "insert.. here" with an image link , but the URL must be copied from an uploaded GitHub file image. 
 ● save the repository and wait a few minutes, u've now got an image displayed! 
